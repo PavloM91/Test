@@ -1,0 +1,15 @@
+gittest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+gittest\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+gittest\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+gittest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gittest\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+gittest\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+gittest\queue.o: ../Inc/FreeRTOSConfig.h
+gittest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gittest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gittest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gittest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+gittest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gittest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gittest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+gittest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
