@@ -109,6 +109,8 @@ int main(void)
 	void main_3(void);
 
   /* USER CODE END 2 */
+  
+  //void change4();
 
   /* USER CODE BEGIN RTOS_MUTEX */
   /* add mutexes, ... */
